@@ -2,6 +2,9 @@
 </h5>💫 About Me:</h5>
 🔭 I’m Antish kumar (ankit)<br>👯 I’m MCA student @Career Point University <br>🤝 Data science intern at @Upflairs, exploring Data Science<br>🌱 I’m currently learning
 
+## 🏆Achivements🏆
+![Codewars](https://www.codewars.com/users/Antishcoder007/badges/large)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a_tish_kumar_7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/antishkumar00711866) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/antish007) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:antishkumar007@gmail.com) 
